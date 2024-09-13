@@ -2,7 +2,7 @@
   "name": "ai-innovation-brochure",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aousabdo.github.io/ai-mastery-accelerator/",
+  "homepage": "https://aousabdo.github.io/ai-mastery-frontend/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

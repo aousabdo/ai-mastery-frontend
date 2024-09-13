@@ -8,7 +8,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Router basename="/ai-mastery-accelerator">
+    <Router basename="/ai-mastery-frontend">
       <App />
     </Router>
   </React.StrictMode>
