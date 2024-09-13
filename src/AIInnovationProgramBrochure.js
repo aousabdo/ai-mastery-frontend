@@ -135,7 +135,7 @@ export default function AIInnovationProgramBrochure() {
             </Link>
           </div>
           <p className="mt-4 text-indigo-300">
-            For more information, visit <a href="https://www.analyticadss.com/" className="text-indigo-200 hover:text-white underline">www.analyticadss.com</a> or contact us at <a href="mailto:AI_mastery_accelerator@analyticadss.com" className="text-indigo-200 hover:text-white underline">AI_mastery_accelerator@analyticadss.com</a>
+            For more information, visit <a href="https://www.analyticadss.com/" className="text-indigo-200 hover:text-white underline">www.analyticadss.com</a> or contact us at <a href="mailto:AI_mastery@analyticadss.com" className="text-indigo-200 hover:text-white underline">AI_mastery@analyticadss.com</a>
           </p>
         </div>
       </div>
