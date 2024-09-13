@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-mastery-accelerator/static/css/main.eeb7bb49.css",
+    "main.js": "/ai-mastery-accelerator/static/js/main.837ec7ae.js",
+    "static/js/453.22225afb.chunk.js": "/ai-mastery-accelerator/static/js/453.22225afb.chunk.js",
+    "index.html": "/ai-mastery-accelerator/index.html",
+    "main.eeb7bb49.css.map": "/ai-mastery-accelerator/static/css/main.eeb7bb49.css.map",
+    "main.837ec7ae.js.map": "/ai-mastery-accelerator/static/js/main.837ec7ae.js.map",
+    "453.22225afb.chunk.js.map": "/ai-mastery-accelerator/static/js/453.22225afb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb7bb49.css",
+    "static/js/main.837ec7ae.js"
+  ]
+}
